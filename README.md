@@ -29,7 +29,7 @@
   📫 How to reach me: <a href="mailto: ahmetburakozturk28@gmail.com">ahmetburakozturk28@gmail.com</a>
 </p>
 
-
+<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -51,7 +51,6 @@
   <code><img title="SQL" height="25" src="images/sql.svg"></code>
   <code><img title="Docker" height="25" src="images/docker.svg">
 </p>
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
