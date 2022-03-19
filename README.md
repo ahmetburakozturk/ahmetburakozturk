@@ -29,7 +29,7 @@
   📫 How to reach me: <a href="mailto: ahmetburakozturk28@gmail.com">ahmetburakozturk28@gmail.com</a>
 </p>
 
-<hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
