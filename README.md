@@ -18,10 +18,10 @@
   Hi, I'm Ahmet Burak Öztürk, Mechatronic Engineer & Software Developer from Turkey
   <br>
   <br>
-  💻 I work as software developer at Turkcell Group Company Atmosware since 06.2022.
+  💻 I work as software developer at Turkcell Group Company Atmosware since 6/2022.
   <br>
   <br>
-  🔬 I'm graduated from a licence's degree in Kırklareli University Mechatronic Engineering Department
+  🔬 I graduated from a licence's degree in Kırklareli University Mechatronic Engineering Department
   <br>
   🎓 I graduated from Konya Turmak High School
   <br>
