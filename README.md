@@ -30,7 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetburakozturk&show_icons=true&locale=en&layout=compact" alt="ahmetburakozturk" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmetburakozturk&show_icons=true&locale=en" alt="ahmetburakozturk" /></p>
-
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetburakozturk&" alt="ahmetburakozturk" /></p>
