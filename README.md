@@ -17,27 +17,21 @@
 - 📫 How to reach me **ahmetburakozturk28@gmail.com**
 
 ```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Robotics Software Engineer (UAV Swarms)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
+name: Ahmet Burak ÖZTÜRK
+located_in: Konya, TURKEY
+from: Konya (TURKEY)
+job: Backend Software Engineer (.Net)
+education: ["Mechatronic Engineering"]
+company: Turkcell Group Company Atmosware
 past experiences: 
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App (Go/Postgre/Node)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+  - ["Turkcell Group Company Atmosware", "Backend Software Engineer","Fully Remote", "Istanbul/Turkey", "2022/09-NOW"]
+  - ["Backend Software Engineer Intern", "Turkcell", "Fully Remote", "Istanbul/Turkey","2022/04-2022/09"]
+  - ["Fullstack Software Engineer Intern", "Rast Technology", "Hybrid", "Konya/Turkey", "2019-2021]
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Social Media Bots", "Crypto Trading Bots", "Aerial Robotics"]
-will_learn: ["Web3"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+fields_of_interests: ["Mobile World", "Mobile Operating Systems", "Game Develop"]
+currently_learning: ["Swift", "Data Structers", "IOS Life-Cycle"]
+will_learn: ["Kotlin"]
+hobbies: ["Football", "Video Games", "Keyboards", "Astrology"]
 ```
 
 <h3 align="left">Connect with me:</h3>
@@ -45,6 +39,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <a href="https://linkedin.com/in/ahmetburakozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetburakozturk" height="30" width="40" /></a>
 <a href="https://instagram.com/ztrk_abrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ztrk_abrk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmetburakozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmetburakozturk" height="30" width="40" /></a>
+<a href="mailto:ahmetburakozturk28@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ahmetburakozturk" height="30" width="40" /></a>
 </p>
 
 <br/>
