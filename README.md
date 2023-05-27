@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi there👋, I'm Ahmet Burak</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetburakozturk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetburakozturk" /> </p>
 
@@ -31,6 +31,8 @@ hobbies: ["Football", "Video Games", "Keyboards", "Astrology"]
 <a href="https://www.hackerrank.com/ahmetburakozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmetburakozturk" height="30" width="40" /></a>
 <a href="mailto:ahmetburakozturk28@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="ahmetburakozturk" height="30" width="40" /></a>
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <br/>
 <br/>
