@@ -6,16 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetburakozturk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetburakozturk" /> </p>
 
 
-- 🔭 I’m currently working on **Turkcell Group Company Atmosware as a Backend Developer**
-
-- 🌱 I’m currently learning **Swift and Mobile Programming**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmetburakozturk](https://github.com/ahmetburakozturk)
-
-- 💬 Ask me about **.Net, Swift, JS**
-
-- 📫 How to reach me **ahmetburakozturk28@gmail.com**
-
 ```yaml
 name: Ahmet Burak ÖZTÜRK
 located_in: Konya, TURKEY
@@ -39,7 +29,7 @@ hobbies: ["Football", "Video Games", "Keyboards", "Astrology"]
 <a href="https://linkedin.com/in/ahmetburakozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetburakozturk" height="30" width="40" /></a>
 <a href="https://instagram.com/ztrk_abrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ztrk_abrk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmetburakozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmetburakozturk" height="30" width="40" /></a>
-<a href="mailto:ahmetburakozturk28@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ahmetburakozturk" height="30" width="40" /></a>
+<a href="mailto:ahmetburakozturk28@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="ahmetburakozturk" height="30" width="40" /></a>
 </p>
 
 <br/>
