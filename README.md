@@ -21,14 +21,14 @@ job: Backend Software Engineer (.Net)
 education: ["Mechatronic Engineering"]
 company: Turkcell Group Company Atmosware
 past experiences: 
-  - ["Turkcell Group Company Atmosware", "Backend Software Engineer","Fully Remote", "Istanbul/Turkey", "2022/09-NOW"]
+  - ["Backend Software Engineer", "Turkcell Group Company Atmosware","Fully Remote", "Istanbul/Turkey", "2022/09-NOW"]
   - ["Backend Software Engineer Intern", "Turkcell", "Fully Remote", "Istanbul/Turkey","2022/04-2022/09"]
   - ["Fullstack Software Engineer Intern", "Rast Technology", "Hybrid", "Konya/Turkey", "2019-2021]
 
-fields_of_interests: ["Mobile World", "Mobile Operating Systems", "Game Develop"]
-currently_learning: ["Swift", "Data Structers", "IOS Life-Cycle"]
+fields_of_interests: ["Mobile World", "Mobile Operating Systems", "Game Development"]
+currently_learning: ["Swift", "Data Structers", "IOS Life-Cycle", "SwiftUI"]
 will_learn: ["Kotlin"]
-hobbies: ["Football", "Video Games", "Keyboards", "Astrology"]
+hobbies: ["Football", "Video Games", "Keyboards", "Astronomy"]
 ```
 
 <h3 align="left">Connect with me:</h3>
