@@ -7,7 +7,6 @@
          width="45" />
     I'm Ahmet Burak!
 </h3>
-<h3 align="center">A passionate developer from Turkey</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetburakozturk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetburakozturk" /> </p>
